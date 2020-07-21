@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
+import '../constants.dart';
 
 class customCardChild extends StatelessWidget {
   customCardChild({@required this.customIcon, @required this.customText});
